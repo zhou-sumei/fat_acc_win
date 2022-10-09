@@ -1,0 +1,11 @@
+browser position chr4:140554431-140573961
+track name="accerelated-evolution win"    description="UCP1 accerelated evolution window" 
+# visibility=2
+#chrom chromStart chromEnd
+chr4    140556741       140556900
+chr4    140572421       140572560
+chr4    140573341       140573460
+chr4    140556601       140556700
+chr4    140560001       140560100
+chr4    140567541       140567640
+chr4    140564341       140564440
