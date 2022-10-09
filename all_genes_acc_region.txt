@@ -1,5 +1,5 @@
 browser position chr4:140554431-140573961
-track name="accerelated-evolution win"    description="accerelated evolution regions of gene"   visibility=1
+track name="accerelated-evolution win"  description="accerelated evolution regions of gene" visibility=1
 #chrom chromStart chromEnd
 chr6	20575341	20575440
 chr6	20868561	20868700
